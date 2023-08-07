@@ -1,0 +1,19 @@
+.red {
+    background-color: rgb(245, 122, 157);
+    font: "Verdana", "DejVu Sans", sans-serif;
+}
+
+#two {
+    color: rgba(25, 41, 220, 0.719);
+    font-size: 36px;
+}
+
+.thirdclass {
+    font-size: 24px;
+}
+
+#four {
+    background-color: rgba(9, 228, 49, 0.708);
+    font-size: 24px;
+    font-weight: bold;
+}
